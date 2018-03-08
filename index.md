@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Code Cobber Pages
 
-You can use the [editor on GitHub](https://github.com/codecobber/codecobber.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Not much to report at present. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This account is really just for backups and test projects. Enjoy any of the projects I have on Github. If they help you then great.
 
 ### Markdown
 
