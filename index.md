@@ -4,7 +4,7 @@
 
 Enjoy any of the projects I have on Github. If they help you then great.
 
-### ScrollCheck
+## ScrollCheck
 
 A nice and easy way to add animate css to elements and have animation when you scroll. 
 
@@ -13,7 +13,7 @@ A nice and easy way to add animate css to elements and have animation when you s
 
 [Here's some examples:](https://codecobber.github.io/scrollcheck.html)
 
-### hoverAnimateCSS
+## hoverAnimateCSS
 
 Another nice and easy way to add animate css to elements this time when you hover over an element.
 
