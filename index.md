@@ -22,4 +22,13 @@ Another nice and easy way to add animate css to elements this time when you hove
 
 * [Here's some examples:](https://codecobber.github.io/hoverAnimate.html)
 
+## Skeleton Display
+
+A nice and easy way to add animate css to elements and have animation when you scroll. 
+
+
+* [See Skeleton display code](https://github.com/codecobber/Skeleton-display)
+
+* [Here's some examples:](https://codecobber.github.io/skeleton_display.html)
+
 
