@@ -24,7 +24,7 @@ Another nice and easy way to add animate css to elements this time when you hove
 
 ## Skeleton Display
 
-A nice and easy way to add animate css to elements and have animation when you scroll. 
+Based on the original Skeleton css, Skeleton display allows you to show or hide elements based on viewport size.
 
 
 * [See Skeleton display code](https://github.com/codecobber/Skeleton-display)
