@@ -12,13 +12,14 @@ A nice and easy way to add animate css to elements and have animation when you s
 ### hoverAnimateCSS
 
 Another nice and easy way to add animate css to elements this time when you hover over an element.
-[Link https://github.com/codecobber/hoverAnimateCSS
+[Link]https://github.com/codecobber/hoverAnimateCSS.
 
+Here's some examples: [Link]https://codecobber.github.io/hoverAnimate.html
 
 
 ```markdown
 Syntax highlighted code block
-
+ddd
 # Header 1
 ## Header 2
 ### Header 3
