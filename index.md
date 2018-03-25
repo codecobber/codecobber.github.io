@@ -7,33 +7,16 @@ Enjoy any of the projects I have on Github. If they help you then great.
 ### ScrollCheck
 
 A nice and easy way to add animate css to elements and have animation when you scroll.
-[Link] https://github.com/codecobber/scrollCheck
+[Link](https://github.com/codecobber/scrollCheck)
 
 ### hoverAnimateCSS
 
 Another nice and easy way to add animate css to elements this time when you hover over an element.
 [Link]https://github.com/codecobber/hoverAnimateCSS.
 
-Here's some examples: [Link]https://codecobber.github.io/hoverAnimate.html
+Here's some examples: [Link](https://codecobber.github.io/hoverAnimate.html)
 
 
-```markdown
-Syntax highlighted code block
-ddd
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
