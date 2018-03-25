@@ -1,12 +1,18 @@
 ## Welcome to Code Cobber Pages
 
-Not much to report at present. 
 
-This account is really just for backups and test projects. Enjoy any of the projects I have on Github. If they help you then great.
 
-### Markdown
+Enjoy any of the projects I have on Github. If they help you then great.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ScrollCheck
+
+A nice and easy way to add animate css to elements and have animation when you scroll.
+[Link] https://github.com/codecobber/scrollCheck
+
+Another nice and easy way to add animate css to elements this time when you hover over an element.
+[Link https://github.com/codecobber/hoverAnimateCSS
+
+
 
 ```markdown
 Syntax highlighted code block
