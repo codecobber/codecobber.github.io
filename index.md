@@ -29,6 +29,6 @@ A nice and easy way to add animate css to elements and have animation when you s
 
 * [See Skeleton display code](https://github.com/codecobber/Skeleton-display)
 
-* [Here's some examples:](https://codecobber.github.io/skeleton_display.html)
+* [Here's an example:](https://codecobber.github.io/skeleton_display.html)
 
 
