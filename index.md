@@ -9,6 +9,8 @@ Enjoy any of the projects I have on Github. If they help you then great.
 A nice and easy way to add animate css to elements and have animation when you scroll.
 [Link] https://github.com/codecobber/scrollCheck
 
+### hoverAnimateCSS
+
 Another nice and easy way to add animate css to elements this time when you hover over an element.
 [Link https://github.com/codecobber/hoverAnimateCSS
 
