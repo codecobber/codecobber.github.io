@@ -32,3 +32,8 @@ Based on the original Skeleton css, Skeleton display allows you to show or hide 
 * [Here's an example:](https://codecobber.github.io/skeleton_display.html)
 
 
+## WebAp test
+Derived from:
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/#test_it_out
+
+* [See demo](https://codecobber.github.io/myWebAp.html)
